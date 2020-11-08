@@ -1,21 +1,21 @@
 # numero-primos
 
-## Project setup
+## instaalr dependencias
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Executar projeto
 ```
-yarn serve
+node server.js
 ```
 
-### Compiles and minifies for production
+### Buildar o projeto
 ```
 yarn build
 ```
 
-### Lints and fixes files
+### Executar Lint
 ```
 yarn lint
 ```
