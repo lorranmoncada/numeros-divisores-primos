@@ -1,6 +1,6 @@
 # numero-primos
 
-## instaalr dependencias
+## instalar dependencias
 ```
 yarn install
 ```
